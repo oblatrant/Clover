@@ -1,4 +1,4 @@
-# Clover
+# Clover - old and may not properly work
 Clover is an opensource dos panel
 Use at your own risk and only with permisson of the target
 
